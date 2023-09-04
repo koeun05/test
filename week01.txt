@@ -1,3 +1,3 @@
 week01
--OT , vcs
--git github, go programming lang
+-OT 
+-vcs , git github, go programming lang
