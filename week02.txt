@@ -11,3 +11,5 @@ git config --global user.name "inhatckogaeun"
 git commit -m "v0"
 git checkout hashcode
 git checkout -
+git remote add origin https://github.com/koeun05/test.git
+git push -u origin.main
