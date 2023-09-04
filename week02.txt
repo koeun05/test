@@ -1,5 +1,5 @@
 week02
-- linux command : ls, ls -al, pwd, cd .git, cd ..
+- linux command : ls, ls -al, pwd, cd .git, cd .., echo "~~~" >> README.md, cat.README.md
 
 -git command : 
 git init
@@ -9,4 +9,5 @@ git config --global
 git config --global user.email "hudie2763@gmail.com"
 git config --global user.name "inhatckogaeun"
 git commit -m "v0"
-
+git checkout hashcode
+git checkout -
